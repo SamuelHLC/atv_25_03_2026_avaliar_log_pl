@@ -1,7 +1,7 @@
 # Relatório de Paralelização — Avaliador de Logs
 
 **Disciplina:** Programação Paralela e Distribuída
-**Aluno(s):** Tiago Geraldo de Lima Cosme
+**Aluno(s):** Samuel Henrique Lima Cançado
 **Turma:** Sistemas de Informação
 **Professor:** Rafael
 **Data:** 25/03/2026
